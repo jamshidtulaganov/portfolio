@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Jamshid Tulaganov",
+  title: "Hi all, I'm Jamshid",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Experienced frontend developer with a strong foundation in JavaScript and TypeScript, specializing in modern frontend frameworks and libraries such as Vue.js, React.js, Next.js, and Nuxt.js. Proficient in utilizing UI libraries including Styled Components, Vuetify, and Bootstrap to create elegant and responsive user interfaces. With a track record of 2.5 years in the industry and having worked on over 10 projects. "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button

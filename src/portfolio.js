@@ -131,10 +131,10 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      role: "Frontend Engineer",
+      company: "UIC group",
+      companylogo: require("./assets/images/uic.png"),
+      date: "October 2023 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -143,17 +143,17 @@ const workExperiences = {
     },
     {
       role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      company: "Techcells LLC",
+      companylogo: require("./assets/images/techcells.png"),
+      date: "March 2022 – September 2023",
+      desc: "Participated in 4+ projects, contributing to the design, development, and implementation of various frontend functionalities, gaining valuable experience in both Vue.js and React.js ecosystems. Demonstrated proficiency in frontend development best practices, leveraging industry-standard tools and techniques to deliver high-quality, scalable, and maintainable solutions. Enhanced soft skills, including communication, collaboration, and problem-solving, through active participation in team meetings, brainstorming sessions, and project discussions. Utilized Vuetify, a popular Vue.js UI component library, to customize and extend components according to project requirements, enhancing user interface design and usability."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Fullstack developer Intern",
+      company: "FullFill study center",
+      companylogo: require("./assets/images/fullfill.png"),
+      date: "Aug 2021 – Dec 2021",
+      desc: "Developed full-stack web applications as part of an internship program, gaining practical experience in both frontend and backend technologies. Utilized JavaScript, HTML, and CSS to build responsive and user-friendly frontend interfaces, leveraging Bootstrap 4 for efficient styling and layout. Implemented server-side logic and RESTful APIs using Node.js and Express.js, facilitating seamless communication between the frontend and backend layers. Integrated MongoDB as the database solution, designing schemas, and implementing CRUD operations to manage application data effectively. Collaborated closely with team members on project requirements and deadlines, gaining valuable experience in teamwork, communication, and project management. Practiced version control and collaborative development workflows using Git and GitHub, participating in code reviews and contributing to shared repositories."
     }
   ]
 };

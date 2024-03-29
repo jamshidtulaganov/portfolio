@@ -50,7 +50,8 @@ const Main = () => {
           <SplashScreen />
         ) : (
           <>
-            <Header />
+          <main className="main-container">
+          <Header />
             <Greeting />
             <Skills />
             <StackProgress />
@@ -66,6 +67,7 @@ const Main = () => {
             <Profile />
             <Footer />
             <ScrollToTopButton />
+          </main>
           </>
         )}
       </StyleProvider>
